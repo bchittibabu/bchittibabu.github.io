@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "PX369MG78T.com.greatergoods.sage.poc"
+        ],
+        "components": [
+          {
+            "/": "/clip*",
+            "comment": "Matches /clip and /clip?type=sousvide&serial=SV-001"
+          }
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "PX369MG78T.com.greatergoods.sage.poc.Clip"
+    ]
+  }
+}
