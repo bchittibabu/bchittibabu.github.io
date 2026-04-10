@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.greatergoods.sage.droid",
+      "sha256_cert_fingerprints": [
+        "7D:7C:1B:30:F5:2D:D9:21:D3:F9:A5:F4:DE:EC:97:66:79:5D:A0:14:2A:1F:3C:60:A2:73:4C:08:F0:40:23:0A"
+      ]
+    }
+  }
+]
