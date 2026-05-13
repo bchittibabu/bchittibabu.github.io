@@ -3,7 +3,7 @@
     "details": [
       {
         "appIDs": [
-          "PX369MG78T.com.greatergoods.sage.poc"
+          "PX369MG78T.com.greatergoods.sage"
         ],
         "components": [
           {
@@ -16,7 +16,7 @@
   },
   "appclips": {
     "apps": [
-      "PX369MG78T.com.greatergoods.sage.poc.Clip"
+      "PX369MG78T.com.greatergoods.sage.appclip"
     ]
   }
 }
