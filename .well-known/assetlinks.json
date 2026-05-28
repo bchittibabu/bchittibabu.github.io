@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.dmdbrands.sage",
       "sha256_cert_fingerprints": [
-        "7D:7C:1B:30:F5:2D:D9:21:D3:F9:A5:F4:DE:EC:97:66:79:5D:A0:14:2A:1F:3C:60:A2:73:4C:08:F0:40:23:0A"
+        "7D:7C:1B:30:F5:2D:D9:21:D3:F9:A5:F4:DE:EC:97:66:79:5D:A0:14:2A:1F:3C:60:A2:73:4C:08:F0:40:23:0A",
+        "1D:7C:A1:4B:ED:43:3D:76:1A:3D:51:E7:91:2B:B9:88:35:7C:9A:E6:22:9E:02:A6:84:C1:AF:FC:4D:DF:35:3C"
       ]
     }
   }
